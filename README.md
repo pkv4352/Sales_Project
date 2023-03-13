@@ -8,7 +8,7 @@ About
 5. With the new transformed data, answered few questions such as 
 6.      i)Which month has more sales.
 7.     ii)Which city has more orders.
-8.    iii)Which is the best time to advertise to maximise for product purchase?  
+8.    iii) Which is the best time to advertise to maximise for product purchase?  
 9.     iv)What Product sold the most and why?
 10.Plotted few barplots and piechart to answer them.
 
