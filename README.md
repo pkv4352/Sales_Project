@@ -10,5 +10,6 @@ About
 7.     ii)Which city has more orders.
 8.    iii) Which is the best time to advertise to maximise for product purchase?  
 9.     iv)What Product sold the most and why?
-10.Plotted few barplots and piechart to answer them.
+10.     v) Monthly increase/Decrease in sales Percentage compared to previous month.
+11.Plotted few barplots and piechart to answer them.
 
